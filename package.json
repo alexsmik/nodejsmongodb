@@ -4,12 +4,12 @@
   "description": "A boilerplate for Node.js web applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/alexsmik/nodejsmongodb.git"
   },
-  "author": "Sahat Yalkabov",
+  "author": "alexsmik",
   "license": "MIT",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
     "test": "mocha --reporter spec",
     "postinstall": "npm rebuild node-sass"
   },
